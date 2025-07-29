@@ -1,0 +1,18 @@
+{
+  "total_images": 3025,
+  "num_classes": 12,
+  "class_breakdown": {
+    "auto-rickshaw": 380,
+    "bicycle": 222,
+    "bus": 181,
+    "car": 200,
+    "e-rickshaw": 200,
+    "mini-bus": 200,
+    "mini-truck": 328,
+    "motorcycle": 208,
+    "rickshaw": 200,
+    "tractor": 200,
+    "truck": 408,
+    "van": 298
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "timestamp": "20250725_214812",
+  "initial_stats": {
+    "train": {
+      "auto-rickshaw": 448,
+      "bicycle": 262,
+      "bus": 213,
+      "car": 117,
+      "e-rickshaw": 97,
+      "mini-bus": 11,
+      "mini-truck": 387,
+      "motorcycle": 245,
+      "rickshaw": 24,
+      "tractor": 81,
+      "truck": 481,
+      "van": 351
+    },
+    "total": 2717
+  },
+  "cleaning_actions": [
+    {
+      "timestamp": "2025-07-25T21:48:12.403834",
+      "action": "Moved bicycle image",
+      "details": "From train to val: 0_2out08-56-5642.png"
+    },
+    {
+      "timestamp": "2025-07-25T21:48:12.409841",
+      "action": "Moved mini-bus image",
+      "details": "From train to val: 0_16211_16-40-13_008419.jpg"
+    }
+  ],
+  "final_stats": {
+    "train": {
+      "auto-rickshaw": 448,
+      "bicycle": 262,
+      "bus": 213,
+      "car": 117,
+      "e-rickshaw": 97,
+      "mini-bus": 11,
+      "mini-truck": 387,
+      "motorcycle": 245,
+      "rickshaw": 24,
+      "tractor": 81,
+      "truck": 481,
+      "van": 351
+    },
+    "total": 2717
+  },
+  "removed_files": {
+    "corrupt": [],
+    "low_quality": [],
+    "outliers": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "train_dir": "C:\\Users\\HP\\Desktop\\vehicle_classification\\output\\new_train",
+  "val_dir": "C:\\Users\\HP\\Desktop\\vehicle_classification\\output\\new_val",
+  "output_dir": "C:\\Users\\HP\\Desktop\\vehicle_classification\\output",
+  "verification_dir": "C:\\Users\\HP\\Desktop\\vehicle_classification\\verification_images",
+  "image_size": 224,
+  "target_min_samples": 200,
+  "batch_size": 16,
+  "num_workers": 0,
+  "num_epochs": 15,
+  "learning_rate": 0.0001,
+  "weight_decay": 0.01
+}

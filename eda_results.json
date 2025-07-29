@@ -1,0 +1,21 @@
+{
+  "timestamp": "2025-07-25T21:09:22.731582",
+  "total_images": 3484,
+  "corrupted_count": 0,
+  "duplicate_count": 0,
+  "class_distribution": {
+    "truck": 638,
+    "auto-rickshaw": 585,
+    "mini-truck": 489,
+    "van": 454,
+    "bicycle": 332,
+    "motorcycle": 314,
+    "bus": 284,
+    "car": 152,
+    "e-rickshaw": 103,
+    "tractor": 84,
+    "rickshaw": 36,
+    "mini-bus": 13
+  },
+  "imbalance_ratio": 49.07692307692308
+}

@@ -1,0 +1,92 @@
+{
+  "class_counts": {
+    "auto-rickshaw": 380,
+    "bicycle": 222,
+    "bus": 181,
+    "car": 99,
+    "e-rickshaw": 82,
+    "mini-bus": 9,
+    "mini-truck": 328,
+    "motorcycle": 208,
+    "rickshaw": 20,
+    "tractor": 68,
+    "truck": 408,
+    "van": 298
+  },
+  "target_min_samples": 200,
+  "image_size": 224,
+  "augmentation_configs": {
+    "auto-rickshaw": {
+      "intensity": "low",
+      "current_samples": 380,
+      "target_samples": 380,
+      "augmentation_multiplier": 1
+    },
+    "bicycle": {
+      "intensity": "low",
+      "current_samples": 222,
+      "target_samples": 222,
+      "augmentation_multiplier": 1
+    },
+    "bus": {
+      "intensity": "low",
+      "current_samples": 181,
+      "target_samples": 200,
+      "augmentation_multiplier": 1
+    },
+    "car": {
+      "intensity": "medium",
+      "current_samples": 99,
+      "target_samples": 200,
+      "augmentation_multiplier": 2
+    },
+    "e-rickshaw": {
+      "intensity": "medium",
+      "current_samples": 82,
+      "target_samples": 200,
+      "augmentation_multiplier": 2
+    },
+    "mini-bus": {
+      "intensity": "extreme",
+      "current_samples": 9,
+      "target_samples": 200,
+      "augmentation_multiplier": 22
+    },
+    "mini-truck": {
+      "intensity": "low",
+      "current_samples": 328,
+      "target_samples": 328,
+      "augmentation_multiplier": 1
+    },
+    "motorcycle": {
+      "intensity": "low",
+      "current_samples": 208,
+      "target_samples": 208,
+      "augmentation_multiplier": 1
+    },
+    "rickshaw": {
+      "intensity": "high",
+      "current_samples": 20,
+      "target_samples": 200,
+      "augmentation_multiplier": 10
+    },
+    "tractor": {
+      "intensity": "medium",
+      "current_samples": 68,
+      "target_samples": 200,
+      "augmentation_multiplier": 2
+    },
+    "truck": {
+      "intensity": "low",
+      "current_samples": 408,
+      "target_samples": 408,
+      "augmentation_multiplier": 1
+    },
+    "van": {
+      "intensity": "low",
+      "current_samples": 298,
+      "target_samples": 298,
+      "augmentation_multiplier": 1
+    }
+  }
+}
