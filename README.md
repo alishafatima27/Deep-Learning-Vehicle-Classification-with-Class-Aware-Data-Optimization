@@ -94,9 +94,6 @@ This repository implements a state-of-the-art pipeline for multi-class vehicle c
   - `verify.py`: Validates ONNX models.
 - `src/utils/`
   - `extract_best_metrics.py`: Extracts best epoch metrics.
-- `src/docs/`
-  - `generate_professional_readme.py`: Professional README generator.
-  - `generate_detailed_readme.py`: Detailed README generator.
 - `config/`
   - `config.json`: Paths and hyperparameters.
 - `output/`: Models, metrics, visualizations, logs.
