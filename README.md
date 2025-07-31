@@ -212,4 +212,3 @@ Best epoch metrics for **generalization performance**:
 - **Data Issues**: Run `src/data/eda.py` for `output/logs/dataset_stats.json`.
 
 This pipeline delivers a scalable, high-performance vehicle classification solution with robust preprocessing and deployment capabilities.
-=======
