@@ -1,7 +1,7 @@
 # Vehicle Classification Pipeline
 
 ## Overview
-This repository implements a state-of-the-art pipeline for multi-class vehicle classification across 0 categories using deep learning models: ResNet50, EfficientNet-B0, and Vision Transformer B/16 (ViT-B/16). The pipeline integrates **Exploratory Data Analysis (EDA)**, **CleanVision-based data cleaning**, **class-aware data augmentation**, **feature extraction**, **transfer learning**, **model optimization**, and **ONNX serialization**. The dataset comprises 0 training images (0 synthetic) and 0 validation images, processed on an NVIDIA GTX 1650 using PyTorch 2.4.0+cu124 in a Windows Conda environment. Performance is evaluated with **macro-averaged precision**, **recall**, **F1 score**, and **mean Average Precision (mAP)** for robust generalization.
+This repository implements a state-of-the-art pipeline for multi-class vehicle classification across 0 categories using deep learning models: ResNet50, EfficientNet-B0, and Vision Transformer B/16 (ViT-B/16). The pipeline integrates **Exploratory Data Analysis (EDA)**, **CleanVision-based data cleaning**, **class-aware data augmentation**, **feature extraction**, **transfer learning**, **model optimization**, and **ONNX serialization**. The dataset comprises training images 3124 (722 synthetic) and  validation images, processed on an NVIDIA GTX 1650 using PyTorch 2.4.0+cu124 in a Windows Conda environment. Performance is evaluated with **macro-averaged precision**, **recall**, **F1 score**, and **mean Average Precision (mAP)** for robust generalization.
 
 ## Methodology
 
